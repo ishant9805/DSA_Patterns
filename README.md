@@ -19,6 +19,19 @@ In this repository, you will find my solutions to the pattern-based programming 
 ## Usage
 
 You can clone this repository and navigate to the respective problem's solution to view the code. Each solution is organized in its own file.
+Also you can check one single file for all solutions.
+1. Clone this repository to your local machine.
+2. Compile the `main.cpp` file using a C++ compiler.
+3. Run the compiled executable.
+4. Enter an integer to specify the pattern number you want to see.
+5. The program will display the pattern based on the input.
+
+```bash
+$ g++ main.cpp -o pattern
+$ ./pattern
+Enter an integer: 5
+Enter the pattern number: 1
+```
 
 ## License
 
