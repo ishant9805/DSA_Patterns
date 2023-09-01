@@ -27,6 +27,7 @@ Also you can check one single file for all solutions.
 5. The program will display the pattern based on the input.
 
 ```bash
+# In Linux 🐧💻
 $ g++ main.cpp -o pattern
 $ ./pattern
 Enter an integer: 5
