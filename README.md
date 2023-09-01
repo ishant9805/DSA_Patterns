@@ -1,22 +1,20 @@
 # DSA_Patterns
-Repository containing my solutions to the 'Must do Pattern Problems before starting DSA' curated by Striver. These solutions cover a comprehensive set of pattern-based programming problems that are essential for building a strong foundation in Data Structures and Algorithms (DSA). Each solution is implemented in C++. Feel free to explore and learn!
-Browsing search results...
-
+Repository containing my solutions to the 'Must do Pattern Problems before starting DSA' curated by Striver. These solutions cover a comprehensive set of pattern-based programming problems that are essential for building a strong foundation in Data Structures and Algorithms (DSA). Each solution is implemented in C++. Feel free to explore and learn!🚀🔥
 # Must do Pattern Problems before starting DSA Solutions
 
-This repository contains my solutions to the "Must do Pattern Problems before starting DSA" curated by Striver. These pattern-based programming problems are designed to help you develop a strong foundation in Data Structures and Algorithms (DSA).
+This repository contains my solutions to the "Must do Pattern Problems before starting DSA" curated by Striver. These pattern-based programming problems are designed to help you develop a strong foundation in Data Structures and Algorithms (DSA).📝🔍
 
-## Table of Contents
+## Table of Contents📑
 
-- [Introduction](#introduction)
-- [Usage](#usage)
-- [License](#license)
+- [Introduction](#introduction)📌
+- [Usage](#usage)📋
+- [License](#license)📜
 
-## Introduction
+## Introduction📚
 
 In this repository, you will find my solutions to the pattern-based programming problems recommended by Striver. Each solution is implemented in C++. These problems are carefully selected to cover a wide range of patterns and concepts that are crucial for mastering DSA.
 
-## [Problem Link](https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/)
+## [Problem Link](https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/)🔗
 
 ## Usage
 
